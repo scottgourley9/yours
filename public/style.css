@@ -257,10 +257,12 @@ span {
 ul {
   list-style-type: inherit;
   list-style-position: outside;
+
 }
 .bottomBox li {
   font-size: 1vw;
   color: #778383;
+  margin-bottom: .5vw;
 }
 footer {
   height: 5vw;
